@@ -1,0 +1,6 @@
+the sources are not really the one at stniccc, the init dezinit of the systeme
+is not done, so the return to gem is bad, i know it's tragedie
+CERC6B.S is the source for dots you can assemble it if you set standalone equ 1
+and do much more dots, without the ydisting scroll, 3PIXGL3.S can be run as 
+standalone also, with the same thing, merge2.s is the demo itself
+set eventually no case sensitive on
